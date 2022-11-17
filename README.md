@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--My name is Lucas Masato.I'm a Software Engineering student at 42SP, currently studying Full Stack Web Development with The Odin Project.-->
+<!---->
